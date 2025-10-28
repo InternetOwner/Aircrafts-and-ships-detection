@@ -1,3 +1,5 @@
+venv
+pyvenv.cfg
 .idea
 train
 test
