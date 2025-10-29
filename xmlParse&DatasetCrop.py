@@ -1,6 +1,5 @@
 import xml.etree.ElementTree as ET
 import cv2
-import os
 
 
 def parseDataset(sourcePath: str, resultPath: str, xmlPath: str) -> None:
